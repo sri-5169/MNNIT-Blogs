@@ -1,0 +1,29 @@
+.profile__left {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(76, 118, 207, 0.507);
+}
+.profile__left > a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+  height: 50px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+a :hover {
+  /* cursor: pointer; */
+}
+.skill_container {
+  background-color: rgba(49, 49, 141, 0.349);
+  height: 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.skill {
+  background-color: green;
+  width: 50%;
+  height: 100%;
+}

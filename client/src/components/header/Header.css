@@ -1,13 +1,13 @@
 .header {
-position: sticky;
+  position: sticky;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   height: 64px;
   position: static;
-  background-color: black;
-  color: white;
+  background-color: WHITE;
+  color: BLACK;
   z-index: 100;
 }
 .header__left {
@@ -18,21 +18,7 @@ position: sticky;
   height: 30px;
   margin: 5px;
 }
-.header__search {
-  display: flex;
-  background-color: rgb(240, 240, 240);
-  padding: 10px;
-  margin-left: 10vw;
-}
-.header__search > input {
-  background-color: inherit;
-  border-width: 0px;
-  border: none;
-  border: gray;
-}
-.header__searchIcon {
-  color: lightgray;
-}
+
 .header__right {
   display: flex;
   padding: 5px;
@@ -47,10 +33,10 @@ position: sticky;
   text-decoration: none;
   margin-right: 10vw;
   margin-left: 20px;
-  color: white;
+  color: BLACK;
   font-family: Arial, Helvetica, sans-serif;
 }
 .header__home {
   text-decoration: none;
-  color: white;
+  color: BLACK;
 }
