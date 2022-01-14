@@ -1,0 +1,30 @@
+export const items = [
+  {
+    source:
+      "https://image3.mouthshut.com/images/Restaurant/Photo/-85198_133528.jpg",
+  },
+  {
+    source:
+      "https://tse2.mm.bing.net/th?id=OIP.SgGeLyD3KFqwLEeNhkPTeAHaFj&pid=Api&P=0&w=212&h=159",
+  },
+  {
+    source:
+      "https://www.msgjob.in/wp-content/uploads/2020/10/1535368937php8IauG3.jpeg",
+  },
+  {
+    source:
+      "https://tse4.mm.bing.net/th?id=OIP.pmIIGsi3aNiNZ2QFz0jx2gHaFk&pid=Api&P=0&w=253&h=190",
+  },
+  {
+    source:
+      "https://image3.mouthshut.com/images/Restaurant/Photo/-85198_133528.jpg",
+  },
+  {
+    source:
+      "https://image3.mouthshut.com/images/Restaurant/Photo/-85198_133528.jpg",
+  },
+  {
+    source:
+      "https://image3.mouthshut.com/images/Restaurant/Photo/-85198_133528.jpg",
+  },
+];
