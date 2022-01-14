@@ -18,7 +18,7 @@ function Home() {
   return (
     <div>
       <Typography className={classes.collab}>Collab</Typography>
-      <Typography className={classes.subheading}>MNNITians</Typography>
+      <Typography className={classes.subheading}>MNNITian</Typography>
       <Banner />
       Home
     </div>
